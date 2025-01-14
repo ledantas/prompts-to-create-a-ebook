@@ -21,7 +21,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um título de um ebook sobre o tema orçamento de obras públicas. O ebook é do nicho de construção civil e subnicho é orçamento de obras públicas. É voltado para engenheiros civis que trabalham com obras públicas nos entes públicos federativos. Liste 5 variações de títulos.
                                                       |
-| conteúdo | faça um texto para ebook, como foco em orçamento de obras públicas, conteplando os principais pontos que devem ser conhecidos pelo orçamentista, entre eles: legislação (leis, decretos e jurisprudência dos órgãos de controle), sistemas de referências de custos, com foco no SINAPI, conhecimentos técnicos amplos para escolha da melhor concepção da obra, leitura dos projetos e necessidade de ter um bom projeto.
+| conteúdo | faça um texto para ebook, como foco em orçamento de obras públicas, conteplando os principais pontos que devem ser conhecidos pelo orçamentista, entre eles: legislação (leis, decretos e jurisprudência dos órgãos de controle), sistemas de referências de custos, com foco no SINAPI, conhecimentos técnicos amplos para escolha da melhor concepção da obra, leitura dos projetos e necessidade de ter um bom projeto. |
 
 {REGRAS}
 > Explique de uma maneira simples
